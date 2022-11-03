@@ -20,3 +20,19 @@ my-app/
     logo.svg
 ```
 
+
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/Thiagospc" width="100px;" alt="Foto do Thiagospc no GitHub"/><br>
+        <sub>
+          <b>Derex</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
