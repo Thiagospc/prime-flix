@@ -27,7 +27,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="[https://avatars.githubusercontent.com/u/Thiagospc](https://github.com/account)" width="100px;" alt="Foto do Thiagospc no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/64646796?v=4" width="100px;" alt="Foto do Thiagospc no GitHub"/><br>
         <sub>
           <b>Thiagospc</b>
         </sub>
