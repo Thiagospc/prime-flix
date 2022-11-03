@@ -21,9 +21,9 @@ my-app/
 ```
 
 <p>Bibliotecas utilizadas</p>
-1. npm install react-router-dom
-2. npm install axios
-3. npm install react-toastify
+<p>1. npm install react-router-dom</p>
+<p>2. npm install axios</p>
+<p>3. npm install react-toastify</p>
 
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
