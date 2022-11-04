@@ -1,6 +1,10 @@
 ## 💻
 <h1><strong>Link do projeto: https://primeflixthiagospc.netlify.app/</strong></h1>
 
+![Screenshot from 2022-11-03 22-54-10](https://user-images.githubusercontent.com/64646796/199868332-de5b0f0d-a598-4e41-8440-7f5688cfd348.png)
+
+
+
 <p> Arquivos renderizados</p>
 
 ```
